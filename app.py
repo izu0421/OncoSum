@@ -26,8 +26,6 @@ from bert_score import BERTScorer
 
 import numpy as np
 
-openai_api_key = "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"
-
 
 ### Define prompt
 prompt_template_clindoc = """You are a breast oncologist and you have to write a detailed and clear summary\
